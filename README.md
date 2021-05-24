@@ -1,1 +1,1 @@
-# test-kafka-producer
+# test-kafka-clients
